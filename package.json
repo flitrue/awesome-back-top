@@ -1,0 +1,26 @@
+{
+  "name": "awesome-back-top",
+  "version": "1.0.0",
+  "description": "Plugin for back to top feature.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flitrue/awesome-back-top.git"
+  },
+  "keywords": [
+    "nodejs",
+    "backtop",
+    "plugin",
+    "scrolltop",
+    "animation"
+  ],
+  "author": "flitrue 812863096@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flitrue/awesome-back-top/issues"
+  },
+  "homepage": "https://github.com/flitrue/awesome-back-top#readme"
+}
